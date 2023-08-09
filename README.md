@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akilarvn
+- 👋 Hi, I’m Akila, MBA  Business Analytics Student with a bachlors in computer science engineering
 - 👀 I’m interested in working data science, data analytics related projects
 - 🌱 I’m currently learning Python for data analysis and data science
 - 💞️ I’m looking to collaborate on python coding projects
